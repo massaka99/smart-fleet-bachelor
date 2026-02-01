@@ -1,3 +1,9 @@
+# Link to repositories!!!!
+
+[Link text](https://github.com/massaka99/smart-fleet-insight-backend)
+[Link text](https://github.com/massaka99/smart-fleet-insight-simulator)
+[Link text](https://github.com/massaka99/smart-fleet-insight-frontend)
+
 # Sådan kører du hele Smart Fleet Insight-stakken
 
 Kør alle kommandoer fra roden `C:\path\to\root`.
