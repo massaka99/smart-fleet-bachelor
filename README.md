@@ -1,8 +1,8 @@
-# Link to repositories!!!!
+## 🔗 Repositories
 
-[Link text](https://github.com/massaka99/smart-fleet-insight-backend)
-[Link text](https://github.com/massaka99/smart-fleet-insight-simulator)
-[Link text](https://github.com/massaka99/smart-fleet-insight-frontend)
+- **Backend** [smart-fleet-insight-backend](https://github.com/massaka99/smart-fleet-insight-backend)
+- **Simulator** [smart-fleet-insight-simulator](https://github.com/massaka99/smart-fleet-insight-simulator)
+- **Frontend** [smart-fleet-insight-frontend](https://github.com/massaka99/smart-fleet-insight-frontend)
 
 # Sådan kører du hele Smart Fleet Insight-stakken
 
